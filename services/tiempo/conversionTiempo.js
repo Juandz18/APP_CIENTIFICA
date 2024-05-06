@@ -1,4 +1,3 @@
-import { esNumero } from "../validators/validators.js"
 import { Años, Dias, Horas, Meses, Minutos, Segundos, tiempo } from "./tiempo.js"
 
 export function convertirSegundos (opcion, UnidadesTiempo){

@@ -1,4 +1,3 @@
-import { esNumeroPositivo } from "../validators/validators.js";
 import { main } from "../../main.js";
 import { centimetro, decametro, decimetro, hectometros, kilometros, metro, milimetros } from "./longitud.js";
 
